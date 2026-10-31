@@ -74,7 +74,7 @@
 /src/main/java/com/inventory/pos/invoices/ui/InvoiceDownloads.java  @omoseekeinioluwa-boop   # INV-5
 /src/test/java/com/inventory/pos/invoices/pdf/InvoicePdfTest.java   @omoseekeinioluwa-boop  # INV-5
 
-# ---------- Amaize Abraham Maxwell(F/ND/25/3210232), Group 6 member ----------
+# ---------- Lawal AbdulBasit Ayinde (F/ND/25/3210206), Group 6 member ----------
 /src/main/resources/META-INF/resources/styles/invoices.css    @USERNAME_LAWAL   # INV-6
 /src/main/java/com/inventory/pos/invoices/ui/InvoiceCsv.java  @USERNAME_LAWAL   # INV-6
 
@@ -184,11 +184,11 @@
 /src/main/java/com/inventory/pos/vendorcomms/  @paufx442   # COM-1
 /src/main/java/com/inventory/pos/contracts/    @paufx442   # CON-1
 
-# ---------- Mathew Martha Theresa (F/ND/25/3210161), Group 7 member ----------
-/src/main/java/com/inventory/pos/purchasing/domain/      @USERNAME_MATHEW   # PO-1
-/src/main/java/com/inventory/pos/purchasing/repository/  @USERNAME_MATHEW   # PO-1
-/src/main/java/com/inventory/pos/purchasing/service/     @USERNAME_MATHEW   # PO-1
-/src/test/java/com/inventory/pos/purchasing/             @USERNAME_MATHEW   # PO-1
+# ---------- Mathew Martha Theresa (F/ND/25/3210161), Group 6 member ----------
+/src/main/java/com/inventory/pos/purchasing/domain/      @marthamathew01   # PO-1
+/src/main/java/com/inventory/pos/purchasing/repository/  @marthamathew01   # PO-1
+/src/main/java/com/inventory/pos/purchasing/service/     @marthamathew01   # PO-1
+/src/test/java/com/inventory/pos/purchasing/             @marthamathew01   # PO-1
 
 # ---------- Balogun Sekinat (F/ND/25/3210095), Group 7 member ----------
 /src/main/java/com/inventory/pos/purchasing/ui/               @sekinat-prog   # PO-2
